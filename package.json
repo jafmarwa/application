@@ -1,0 +1,16 @@
+{
+  "name": "creatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"cd AUTH-GROUP && npm run dev\" \"cd frentgroup && npm start\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.32.0",
+    "concurrently": "^7.3.0"
+  }
+}

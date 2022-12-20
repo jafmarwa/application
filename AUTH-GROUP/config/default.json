@@ -1,0 +1,17 @@
+{
+    "DB_CONNEXION":{
+        "URI":"mongodb+srv://marwa123:marwa123@cluster0.mrgof.mongodb.net/?retryWrites=true&w=majority"
+    },
+    "SERVER_CONFIG":{
+        "PORT":5000
+    },
+    "JWT_CONFIG":{
+        "SECRET_KEY":"MYAPP"
+
+    },
+    "CLOUDINARY":{
+        "CLOUD_NAME":"dc2c3h1wg",
+        "API_KEY":"971697387122679",
+        "API_SECRET":"co0VPKTj-9DJgbSXOgd5Q3m7KWY"
+    }
+}
